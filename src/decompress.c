@@ -298,4 +298,6 @@ void main(int argc, char **argv) {
 	} else {
 		// Is reading files from decompressed
 	}
+
+	printf("DONE! SUCCESS!\n");
 }
