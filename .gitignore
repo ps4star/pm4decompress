@@ -1,5 +1,5 @@
 dsunpak
-src/decompressed
+src/decompressed/*
 src/a.out
 src/out.txt
 src/unpack.py
