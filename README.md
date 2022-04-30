@@ -4,13 +4,17 @@ Decompresses files from data.bin to decompressed/XXXX.bin
 
 ## How to use
 
+First compile the code
+
 `gcc -w -O2 src/decompress.c`
 
-unix:
+then you can run it 
+
+on unix:
 
 `./a.out`
 
-windows:
+on windows:
 
 `./a.exe`
 
