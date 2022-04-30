@@ -6,7 +6,7 @@
 #include <string.h>
 #include <math.h>
 
-#include "pack_data.c"
+#include "../pack_data.h"
 
 static char g_lzss_text[4096+32];
 void *inptr = NULL;
