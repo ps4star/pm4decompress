@@ -7,8 +7,11 @@ Decompresses files from data.bin to decompressed/XXXX.bin
 `gcc -w -O2 src/decompress.c`
 
 unix:
+
 `./a.out`
+
 windows:
+
 `./a.exe`
 
 Can probably be compiled on Windows/Mac too. Otherwise use cygwin/WSL2.
