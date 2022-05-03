@@ -4,8 +4,18 @@ Decompresses files from data.bin to decompressed/XXXX.bin
 
 ## How to use
 
-`gcc -w -O2 src/decompress.c -o a.out`
+First compile the code
+
+`gcc -w -O2 src/decompress.c`
+
+then you can run it 
+
+on unix:
 
 `./a.out`
+
+on windows:
+
+`./a.exe`
 
 Can probably be compiled on Windows/Mac too. Otherwise use cygwin/WSL2.
